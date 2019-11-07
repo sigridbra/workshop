@@ -20,7 +20,7 @@ function App() {
         </a>
       </header>
       <body>
-        Her er dte bare tull og loking på g.
+        Her er det bare tull og loking på g.
       </body>
     </div>
   );
